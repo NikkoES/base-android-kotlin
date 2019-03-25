@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kosan Kotlin</string>
+    <array name="status">
+        <item>Tidak Sekolah</item>
+        <item>Siswa</item>
+        <item>Mahasiswa</item>
+        <item>Pekerja</item>
+    </array>
+</resources>
